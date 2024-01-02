@@ -10,6 +10,7 @@ proxy - nginx
 app server - tomcat
 message que - rabbit mq
 db - mysql
+db cache - memcached server
 
 
 purpose is local rnd of systems
